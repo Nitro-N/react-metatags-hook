@@ -1,5 +1,5 @@
 {
-  "name": "react-metatags-hook",
+  "name": "@nitro-n/react-metatags-hook",
   "version": "1.3.1",
   "description": "React Hook to manage html meta tags",
   "main": "./dist/index.cjs.js",
